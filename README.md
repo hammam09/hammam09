@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hammam</h1>
-<h3 align="center">Junior Developer | Frontend Enthusiast | UI Builder</h3>
+<h3 align="center">Junior Developer | Frontend | UI Builder</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
