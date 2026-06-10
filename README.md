@@ -40,6 +40,15 @@
 
 ---
 
+## 🎯 Next Technologies
+- React.js
+- Tailwind CSS
+- TypeScript
+- Node.js
+- Express.js
+- Laravel
+
+---
 
 ## 🚀 Featured Projects
 
