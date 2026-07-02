@@ -61,9 +61,15 @@
 ## 📫 Connect With Me
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
+  <a href="https://instagram.com/mmamm.dev26" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hammam-55476a371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mmamm0403@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
+  </a>
 </p>
 
 ---
