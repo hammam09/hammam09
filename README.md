@@ -55,7 +55,7 @@
 - [![Portfolio](https://img.shields.io/badge/🔗_Portfolio_Website-blue?style=for-the-badge)](https://hammamdev.netlify.app)
 - [![Landing Page](https://img.shields.io/badge/🔗_Landing_Page_Business-green?style=for-the-badge)](https://abah-kebab.netlify.app)
 - [![TwoDev](https://img.shields.io/badge/🔗_TwoDev_Website-orange?style=for-the-badge)](https://twodev.netlify.app)
-- [![Weather App](https://img.shields.io/badge/🔗_Weather_app----blue?style=for-the-badge)](https://hamweatherr.netlify.app)
+- [![Weather App](https://img.shields.io/badge/🔗_Weather_app-blue?style=for-the-badge)](https://hamweatherr.netlify.app)
 ---
 
 ## 📫 Connect With Me
