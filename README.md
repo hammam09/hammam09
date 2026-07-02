@@ -52,9 +52,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 Portfolio Website
-- 🔗 Landing Page Business
-- 🔗 TwoDev Website
+- <a href="https://hammamdev.netlify.app" target_blank="">🔗 Portfolio Website</a>
+- <a href="https://abah-kebab.netlify.app">🔗 Landing Page Business</a>
+- <a href="https://twodev.netlify.app">🔗 TwoDev Website</a>
+- <a href="https://hamweatherr.netlify.app">🔗 Weather app</a>
 
 ---
 
