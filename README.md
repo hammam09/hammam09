@@ -52,10 +52,10 @@
 
 ## 🚀 Featured Projects
 
-- <a href="https://hammamdev.netlify.app" target_blank="">🔗 Portfolio Website</a>
-- <a href="https://abah-kebab.netlify.app">🔗 Landing Page Business</a>
-- <a href="https://twodev.netlify.app">🔗 TwoDev Website</a>
-- <a href="https://hamweatherr.netlify.app">🔗 Weather app</a>
+- <a href="https://hammamdev.netlify.app" target="_blank" style="text-decoration: none;">🔗 Portfolio Website</a>
+- <a href="https://abah-kebab.netlify.app" target="_blank" style="text-decoration: none;">🔗 Landing Page Business</a>
+- <a href="https://twodev.netlify.app" target="_blank" style="text-decoration: none;">🔗 TwoDev Website</a>
+- <a href="https://hamweatherr.netlify.app" target="_blank" style="text-decoration: none;">🔗 Weather app</a>
 
 ---
 
