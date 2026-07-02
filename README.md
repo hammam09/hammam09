@@ -52,10 +52,10 @@
 
 ## 🚀 Featured Projects
 
-- <a href="https://hammamdev.netlify.app" target="_blank" style="text-decoration: none;"><span style="text-decoration: none;">🔗 Portfolio Website</span></a>
-- <a href="https://abah-kebab.netlify.app" target="_blank" style="text-decoration: none;"><span style="text-decoration: none;">🔗 Landing Page Business</span></a>
-- <a href="https://twodev.netlify.app" target="_blank" style="text-decoration: none;"><span style="text-decoration: none;">🔗 TwoDev Website</span></a>
-- <a href="https://hamweatherr.netlify.app" target="_blank" style="text-decoration: none;"><span style="text-decoration: none;">🔗 Weather app</span></a>
+- [![Portfolio](https://img.shields.io/badge/🔗_Portfolio_Website-blue?style=for-the-badge)](https://hammamdev.netlify.app)
+- [![Landing Page](https://img.shields.io/badge/🔗_Landing_Page_Business-green?style=for-the-badge)](https://abah-kebab.netlify.app)
+- [![TwoDev](https://img.shields.io/badge/🔗_TwoDev_Website-orange?style=for-the-badge)](https://twodev.netlify.app)
+- [![Weather App](https://img.shields.io/badge/🔗_Weather_app----blue?style=for-the-badge)](https://hamweatherr.netlify.app)
 ---
 
 ## 📫 Connect With Me
